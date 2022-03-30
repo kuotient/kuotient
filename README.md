@@ -1,16 +1,15 @@
-### Hi there 👋
+### 💌 About me
 
-<!--
-**kuotient/kuotient** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning `Deep Learning`, especially `NLP`
+- 👩‍🎓 I majored in IT Engineering, at Soongsil University.
+- 📫 How to reach me: kuotient.dev@gmail.com
 
-Here are some ideas to get you started:
+### 📚 Experiences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [KAIST AI x Goorm NLP Specialist Bootcamp](https://kdt.goorm.io/) Participant (Aug, 2021 - Dec, 2021)
+- [Google Developers Machine Learning Bootcamp](https://developers-kr.googleblog.com/2020/09/mlbootcamp_11.html) Participant (Oct, 2020 - Jan, 2021)
+
+### 🏆 Honors and Awards
+
+-[Elice Coding Data analysis challenge] 2nd (2019)
+-[NAVER 2nd AI Hackerthon](https://campaign.naver.com/aihackathon2018/) Final (2018)
