@@ -11,5 +11,5 @@
 
 ### 🏆 Honors and Awards
 
--[Elice Coding Data analysis challenge] 2nd (2019)
+-Elice Coding Data analysis challenge 2nd (2019)
 -[NAVER 2nd AI Hackerthon](https://campaign.naver.com/aihackathon2018/) Final (2018)
