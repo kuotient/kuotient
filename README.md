@@ -6,7 +6,6 @@
 
 ### 📚 Experiences
 
-- [KAIST AI x Goorm NLP Specialist Bootcamp](https://kdt.goorm.io/) Participant (Aug, 2021 - Dec, 2021)
 - [Google Developers Machine Learning Bootcamp](https://developers-kr.googleblog.com/2020/09/mlbootcamp_11.html) Participant (Oct, 2020 - Jan, 2021)
 
 ### 🏆 Honors and Awards
